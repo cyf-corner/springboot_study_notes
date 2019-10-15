@@ -1,7 +1,7 @@
 package com.flyroc.web4jsp.controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @ClassName
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Date 2019/10/15$ 21:29$
  * @Version v0.0.1
  */
-@RestController
+@Controller
 public class IndexController {
 
     @RequestMapping("/index")
