@@ -1,4 +1,4 @@
-package com.flyroc.web4thymeleaf.controller;
+package com.flyroc.web4thymeleafandbootstrap.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

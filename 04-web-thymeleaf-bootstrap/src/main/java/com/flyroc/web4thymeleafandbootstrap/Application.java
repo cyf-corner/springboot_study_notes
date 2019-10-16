@@ -1,4 +1,4 @@
-package com.flyroc.web4thymeleaf;
+package com.flyroc.web4thymeleafandbootstrap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
